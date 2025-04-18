@@ -48,7 +48,9 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 
 - **Online Code Compiler:**  
   - Practice coding in a built-in code compiler with real-time feedback.
-
+    
+- **Fee Payment System:**
+  - Pay assigned fees (course fee, exam fee, semester fee, or other types) securely via Razorpay. 
 ---
 
 ## 🧠 AI Tools
@@ -63,9 +65,9 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 
 ## ⚙️ Tech Stack
 
-| Frontend | Backend | Authentication | Ai Features | Media | Styling |
-|----------|---------|----------------|----------|-------|---------|
-| React.js | Node.js, Express | JWT, OTP | Gemini Api | Cloudinary | Tailwind CSS |
+| Frontend | Backend | Authentication | Ai Features | Media | Styling | Fee Payment
+|----------|---------|----------------|----------|-------|---------|------------ |
+| React.js | Node.js, Express | JWT, OTP | Gemini Api | Cloudinary | Tailwind CSS | Razorpay
 
 ---
 
