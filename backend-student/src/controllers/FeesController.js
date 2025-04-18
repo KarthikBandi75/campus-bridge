@@ -5,7 +5,7 @@ const razorpayInstance = new Razorpay({
   key_id: "rzp_test_MeATaQ4AEW0yFY",
   key_secret: "L1tMJw78snAC0NdW4cq3Qhlr",
 });
-
+ 
 export const paymentRazorpay = async (req, res) => {
   try {
     const { userId } = req.body;
