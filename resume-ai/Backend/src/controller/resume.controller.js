@@ -2,7 +2,7 @@ import { ApiError } from "../utils/ApiError.js";
 import { ApiResponse } from "../utils/ApiResponse.js";
 import Resume from "../models/resume.model.js";
 
-const start = async (req, res) => {
+const start = async (req, res) => { 
   return res
     .status(200)
     .json(new ApiResponse(200, null, "Welcome to Resume Builder API"));
