@@ -3,7 +3,7 @@ import mongoose from "mongoose";
 import dotenv from "dotenv";
 import cors from "cors";
 import userRoute from "./routes/userRoute.js";
-import otpRoute from "./routes/otpRoute.js";
+import otpRoute from "./routes/otpRoute.js"; 
 import cookieParser from "cookie-parser";
 import collegeRoute from "./routes/collegeRoute.js";
 import facultyRoute from "./routes/facultyRoute.js";
