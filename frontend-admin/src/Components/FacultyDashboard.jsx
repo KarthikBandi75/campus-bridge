@@ -5,7 +5,7 @@ const FacultyDashboard = () => {
     { title: 'Mid-Term Test', date: '2025-04-15', totalMarks: 50 },
     { title: 'Quiz 1', date: '2025-03-28', totalMarks: 20 },
   ];
-
+ 
   const codingQuestions = [
     { title: 'Binary Search Tree', level: 'Medium' },
     { title: 'Two Sum Problem', level: 'Easy' },
