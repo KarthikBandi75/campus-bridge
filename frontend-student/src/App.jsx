@@ -2,7 +2,7 @@ import { Routes, Route, useLocation, matchPath } from "react-router-dom";
 import HomePage from "./pages/HomePage";
 import SignUpPage from "./pages/SignUpPage";
 import { ToastContainer } from "react-toastify";
-import "react-toastify/dist/ReactToastify.css";
+import "react-toastify/dist/ReactToastify.css"; 
 import EmailVerificationPage from "./pages/EmailVerificationPage";
 import LoginPage from "./pages/LoginPage";
 import ForgotOtpPage from "./pages/ForgotOtpPage";
