@@ -2,14 +2,6 @@
 
 A comprehensive Learning Management System (LMS) integrated with a coding platform designed for students, faculty, and administrators. This platform provides seamless access to courses, coding problems, assignments, and AI-driven tools for both learning and career development.
 
----
-
-## 🔗 Live Demo  
-**🌐 Try it here:** [Deployed Link](https://your-deployed-app-link.com)  
-**📂 GitHub Repo:** [View on GitHub](https://github.com/yourusername/lms-coding-platform)
-
----
-
 ## 🎯 Key Features
 
 ### 👑 Admin Dashboard  
@@ -94,16 +86,9 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 ### ☁️ Media Management  
 - Integrated **Cloudinary** for profile image uploads and course material storage.
 
----
-
-## 📸 Screenshots
-
-> *(Add UI screenshots here to visually showcase the platform’s dashboards, forms, coding environments, and more.)*
-
----
 
 ## 🛠️ Setup & Installation
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/lms-coding-platform.git
+git clone https://github.com/KarthikBandi75/campus-bridge.git
