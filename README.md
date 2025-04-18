@@ -63,9 +63,9 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 
 ## ⚙️ Tech Stack
 
-| Frontend | Backend | Authentication | Realtime | Media | Styling |
+| Frontend | Backend | Authentication | Ai Features | Media | Styling |
 |----------|---------|----------------|----------|-------|---------|
-| React.js | Node.js, Express | JWT, OTP | Socket.IO | Cloudinary | Tailwind CSS |
+| React.js | Node.js, Express | JWT, OTP | Gemini Api | Cloudinary | Tailwind CSS |
 
 ---
 
