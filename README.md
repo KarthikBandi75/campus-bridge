@@ -9,7 +9,7 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
   - Add, update, and delete faculty members.  
   - Assign courses to faculty and monitor their activity.  
 
-- **Course & Internship Management:**  
+- **Course & Internship Management:**   
   - Add, update, or remove courses.  
   - Post internships and job opportunities for students.  
 
