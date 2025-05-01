@@ -6,9 +6,7 @@ A comprehensive Learning Management System (LMS) integrated with a coding platfo
 
 ## 🚀 Live Deployments
 
-- 👩‍💼 **Admin/Employer Portal:** [(https://xhorizon-frontend.vercel.app/)]
-- 🧑‍🎓 **User Portal:** [(https://campusbridge-student.vercel.app/)]
-
+🚀 [User Portal](https://campusbridge-student.vercel.app/) | [Admin/Faculty Panel]( https://xhorizon-frontend.vercel.app/)
 ---
 ## 🎯 Key Features
 
