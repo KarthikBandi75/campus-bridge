@@ -2,11 +2,9 @@
 
 A comprehensive Learning Management System (LMS) integrated with a coding platform designed for students, faculty, and administrators. This platform provides seamless access to courses, coding problems, assignments, and AI-driven tools for both learning and career development.
 
----
-
 ## 🚀 Live Deployments
 
-🚀 [User Portal](https://campusbridge-student.vercel.app/) | [Admin/Faculty Panel]( https://xhorizon-frontend.vercel.app/)
+[User Portal](https://campusbridge-student.vercel.app/) | [Admin/Faculty Panel]( https://xhorizon-frontend.vercel.app/)
 ---
 ## 🎯 Key Features
 
